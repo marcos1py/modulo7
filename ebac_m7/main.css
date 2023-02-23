@@ -1,0 +1,25 @@
+body {
+    background-color: #76a8b9;
+}
+
+.form div h2 {
+    color: #FFFFFF;
+}
+
+.centro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#texto {
+    width: 179px;
+    height: 44px;
+    resize: none;
+}
+
+#Btn:hover {
+    color:  #fff;
+    background-color: #2e7a94;
+}
